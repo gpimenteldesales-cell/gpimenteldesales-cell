@@ -1,6 +1,9 @@
 # GUIMÊ
 <br> <br>
-<img width="512" height="512" alt="c# icone" src="https://github.com/user-attachments/assets/1cee1686-5120-4469-bd6c-f61ebf8a63ff" /> ![250px-Lua-Logo svg](https://github.com/user-attachments/assets/306ff811-096e-40d9-9614-bc2446c57152) ![339_Trello_logo-512](https://github.com/user-attachments/assets/21f8caa6-eccf-4827-83cc-e59e616ddd59)
+
+![732252](https://github.com/user-attachments/assets/90af2314-4a07-4da8-bc26-6079e28cac3c)
+![6132221](https://github.com/user-attachments/assets/f5b2b6ca-798b-4a08-8eef-15fd4d65a957)
+
 
  <br>
 17 Anos <br> Game Developer <br> Game Designer <br> Sound Maker.<br> Influenciador Digital
