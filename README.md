@@ -1,6 +1,5 @@
 # GUIMÊ
-<br> <br>
- <br>
+<br>
 17 Anos <br> Game Developer <br> Game Designer <br> Sound Maker.<br> Influenciador Digital
 <br> <br>
 # Sobre mim:
