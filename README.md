@@ -1,10 +1,5 @@
 # GUIMÊ
 <br> <br>
-
-![732252](https://github.com/user-attachments/assets/90af2314-4a07-4da8-bc26-6079e28cac3c)
-![6132221](https://github.com/user-attachments/assets/f5b2b6ca-798b-4a08-8eef-15fd4d65a957)
-
-
  <br>
 17 Anos <br> Game Developer <br> Game Designer <br> Sound Maker.<br> Influenciador Digital
 <br> <br>
