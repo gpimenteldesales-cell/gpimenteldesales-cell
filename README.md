@@ -6,4 +6,5 @@
 <br> <br>
   Olá, meu nome é Guilherme Pimentel de Sales, sou programador de jogos, dono da empresa VOID SA. <br>
         Comecei na programação aos 11 anos usando a linguagem LUA, no software Roblox Studio.<br> <br> <br> <br> <br>
-![logo grupo](https://github.com/user-attachments/assets/02608c85-129d-45a0-a4ea-3bc1379e13ab)
+
+![logo grupo](https://github.com/user-attachments/assets/5ebefe27-7ae1-4c99-80b7-4f0f02ccc6f2)
