@@ -53,5 +53,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
-
+<br>
+  ![logo grupo](https://github.com/user-attachments/assets/10ed6d22-ce77-43f7-9889-ab613ab9b9fa)
 ###
