@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Programador<br>Game Designer<br>Sound Maker<br>Edições de Videos<br>Estudante de Fotografia<br>Color Grading<br>Estudante de Matemática</p>
+<p align="left">Programador<br>Game Designer<br>Sound Maker<br>Edições de Videos<br>Estudante de Fotografia<br>Color Grading<br>Matemático</p>
 
 ###
 
