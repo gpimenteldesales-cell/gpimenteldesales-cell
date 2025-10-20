@@ -14,19 +14,6 @@
 
 ###
 
-<h2 align="left">Sobre mim</h2>
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<p align="left">Fundador da empresa: Void SA<br>Redes Sociais abaixo:</p>
-
-###
-
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
