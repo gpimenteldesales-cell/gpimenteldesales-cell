@@ -2,15 +2,15 @@
 
 ###
 
-<p align="left">Meu nome é Guilherme Pimentel de Sales, tenho 17 anos. Sou programador há 4 meses, atualmente cursando o Curso Técnico de Programação Jogos Digitais pelo SENAI, Em Florianópolis, SC.</p>
+<p align="left">My name is Guilherme Pimentel de Sales, I am 18 years old. I am a junior programmer, currently studying the Digital Games Programming Technical Course at SENAI, in Florianópolis, Brazil.</p>
 
 ###
 
-<h2 align="left">Competências:</h2>
+<h2 align="left">Skills:</h2>
 
 ###
 
-<p align="left">Programador<br>Game Designer<br>Sound Maker<br>Edições de Videos<br>Estudante de Fotografia<br>Color Grading<br>Matemático</p>
+<p align="left">Developer<br>Game Designer<br>Sound Maker<br>Video Editions<br>Photography Student<br>Color Grading</p>
 
 ###
 
