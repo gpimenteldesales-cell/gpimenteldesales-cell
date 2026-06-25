@@ -42,6 +42,6 @@
 </div>
 <br>
 
-  ![logo grupo](https://github.com/user-attachments/assets/10ed6d22-ce77-43f7-9889-ab613ab9b9fa)
+  ![logo grupo](<img width="1983" height="793" alt="NovaVoid_Horizontal" src="https://github.com/user-attachments/assets/a14cf23d-7422-443b-b1d4-3b8a611b8faf" />)
   
 ###
