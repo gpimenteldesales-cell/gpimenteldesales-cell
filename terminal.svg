@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="531" viewBox="0 0 1000 531" font-family="'Courier New',Courier,monospace">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a259ff"/><stop offset="1" stop-color="#39ffa0"/></linearGradient>
+<style>
+.r{opacity:0;animation:in .05s forwards}
+@keyframes in{to{opacity:1}}
+.pulse{animation:pl 4s ease-in-out infinite}
+@keyframes pl{0%,100%{opacity:.85}50%{opacity:1}}
+.cur{animation:bl 1s steps(1) infinite}
+@keyframes bl{50%{opacity:0}}
+@media (prefers-reduced-motion:reduce){.r{opacity:1;animation:none}.pulse,.cur{animation:none}}
+</style></defs>
+<rect width="1000" height="531" rx="10" fill="#07060d" stroke="#a259ff" stroke-opacity=".5"/>
+<rect width="1000" height="34" rx="10" fill="#120e1f"/><rect y="24" width="1000" height="10" fill="#120e1f"/>
+<circle cx="22" cy="17" r="5" fill="#a259ff"/>
+<circle cx="42" cy="17" r="5" fill="#39ffa0"/>
+<circle cx="62" cy="17" r="5" fill="#6b6580"/>
+<text x="500" y="22" text-anchor="middle" font-size="12" fill="#6b6580">novavoid@studio: ~/profile  --neofetch</text>
+<g class="pulse" font-size="12.5" fill="url(#g)" xml:space="preserve">
+<text class="r" style="animation-delay:0.00s" x="34" y="58"></text>
+<text class="r" style="animation-delay:0.06s" x="34" y="77">                ........</text>
+<text class="r" style="animation-delay:0.12s" x="34" y="96">           .``''::::::::'``..</text>
+<text class="r" style="animation-delay:0.18s" x="34" y="115">         `'':;;;----~~~~--;:'`.</text>
+<text class="r" style="animation-delay:0.24s" x="34" y="134">       `'::::;;;;;---~~====~-;:`.     ..</text>
+<text class="r" style="animation-delay:0.30s" x="34" y="153">     ``''''''``````'::;-~=+++=-;'.     ...</text>
+<text class="r" style="animation-delay:0.36s" x="34" y="172">    `````...         .`':-=+**+~;'.    .```</text>
+<text class="r" style="animation-delay:0.42s" x="34" y="191">   .`...        ...     .';=+**+~;`.   .````</text>
+<text class="r" style="animation-delay:0.48s" x="34" y="210">  ...      .`':;----;'.   '-+##*=-'.   .`'''`</text>
+<text class="r" style="animation-delay:0.54s" x="34" y="229">  .      `':-=+*#%%%%@%=;:.;+#%#+-'.   .`':''</text>
+<text class="r" style="animation-delay:0.60s" x="34" y="248">       .`:-=+##%###@@     ~#*%%*=;`    `':::'`</text>
+<text class="r" style="animation-delay:0.66s" x="34" y="267">      .';~=****=-:~-       @@@#=;'.   .':;;:'`</text>
+<text class="r" style="animation-delay:0.72s" x="34" y="286">     .`:-=+*+=-:. :-       @@=-'.    `':;;;:'.</text>
+<text class="r" style="animation-delay:0.78s" x="34" y="305">     `';~=++=-'.  `#@     --`.     .':;---;:`.</text>
+<text class="r" style="animation-delay:0.84s" x="34" y="324">    .`:;~===-:`  .'~#@@@*~.    ..`':;-~~-;:'.</text>
+<text class="r" style="animation-delay:0.90s" x="34" y="343">    .`';~==~-:`   '-+%@%#+~-;;;;--~~=~~-;:'.</text>
+<text class="r" style="animation-delay:0.96s" x="34" y="362">     .':-~~~-:`   .'-=*#%##**+++++===~-;'`.</text>
+<text class="r" style="animation-delay:1.02s" x="34" y="381">     .`';-~~-;'.   .`:-~=+***+++==~-;:'`.</text>
+<text class="r" style="animation-delay:1.08s" x="34" y="400">      .`';---;:'.    .`'::;----;;::'`..</text>
+<text class="r" style="animation-delay:1.14s" x="34" y="419">       .`':;;;;:'`.      ...```....</text>
+<text class="r" style="animation-delay:1.20s" x="34" y="438">         .`':;;;:''`..</text>
+<text class="r" style="animation-delay:1.26s" x="34" y="457">           .`''::::''``...</text>
+<text class="r" style="animation-delay:1.32s" x="34" y="476">               .```''`````....</text>
+</g>
+<text class="r" style="animation-delay:0.30s" x="470" y="58" font-size="15" font-weight="bold" fill="#39ffa0">guilherme@novavoid</text>
+<line class="r" style="animation-delay:0.42s" x1="470" y1="69" x2="966" y2="69" stroke="#a259ff" stroke-opacity=".6"/>
+<text class="r" style="animation-delay:0.54s" x="470" y="96" font-size="13" xml:space="preserve"><tspan fill="#a259ff">. Role</tspan><tspan fill="#6b6580"> ...................... </tspan><tspan fill="#39ffa0">Developer, Game Designer, CEO &amp; Founder</tspan></text>
+<text class="r" style="animation-delay:0.66s" x="470" y="115" font-size="13" xml:space="preserve"><tspan fill="#a259ff">. Studio</tspan><tspan fill="#6b6580"> .................... </tspan><tspan fill="#39ffa0">NovaVoid Studio</tspan></text>
+<text class="r" style="animation-delay:0.78s" x="470" y="134" font-size="13" xml:space="preserve"><tspan fill="#a259ff">. Education</tspan><tspan fill="#6b6580"> ................. </tspan><tspan fill="#39ffa0">Digital Games Programming (SENAI)</tspan></text>
+<text class="r" style="animation-delay:0.90s" x="470" y="153" font-size="13" xml:space="preserve"><tspan fill="#a259ff">. Location</tspan><tspan fill="#6b6580"> .................. </tspan><tspan fill="#39ffa0">Florianopolis, Brazil</tspan></text>
+<text class="r" style="animation-delay:1.14s" x="470" y="191" font-size="13" xml:space="preserve"><tspan fill="#a259ff">. Languages</tspan><tspan fill="#6b6580"> ................. </tspan><tspan fill="#39ffa0">C#, Python, Lua</tspan></text>
+<text class="r" style="animation-delay:1.26s" x="470" y="210" font-size="13" xml:space="preserve"><tspan fill="#a259ff">. Tools</tspan><tspan fill="#6b6580"> ..................... </tspan><tspan fill="#39ffa0">Unity, Spine, Inkscape, After Effects</tspan></text>
+<text class="r" style="animation-delay:1.38s" x="470" y="229" font-size="13" xml:space="preserve"><tspan fill="#a259ff">. IDEs</tspan><tspan fill="#6b6580"> ...................... </tspan><tspan fill="#39ffa0">VS Code, Visual Studio, IntelliJ</tspan></text>
+<text class="r" style="animation-delay:1.50s" x="470" y="248" font-size="13" xml:space="preserve"><tspan fill="#a259ff">. Creative</tspan><tspan fill="#6b6580"> .................. </tspan><tspan fill="#39ffa0">Sound, Video, Photography, Color Grading</tspan></text>
+<text class="r" style="animation-delay:1.74s" x="470" y="286" font-size="13" xml:space="preserve"><tspan fill="#a259ff">. Now.playing</tspan><tspan fill="#6b6580"> ............... </tspan><tspan fill="#39ffa0">Chroma Blitz (in development)</tspan></text>
+<text class="r" style="animation-delay:1.86s" x="470" y="305" font-size="13" xml:space="preserve"><tspan fill="#a259ff">. Mission</tspan><tspan fill="#6b6580"> ................... </tspan><tspan fill="#39ffa0">Innovate. Critique society through games.</tspan></text>
+<text class="r" style="animation-delay:2.10s" x="470" y="343" font-size="13" fill="#a259ff">-- Contact ---------------------------------------</text>
+<text class="r" style="animation-delay:2.22s" x="470" y="362" font-size="13" xml:space="preserve"><tspan fill="#a259ff">. Email</tspan><tspan fill="#6b6580"> ..................... </tspan><tspan fill="#39ffa0">empresa.novavoid.studio@gmail.com</tspan></text>
+<text class="r" style="animation-delay:2.34s" x="470" y="381" font-size="13" xml:space="preserve"><tspan fill="#a259ff">. Instagram</tspan><tspan fill="#6b6580"> ................. </tspan><tspan fill="#39ffa0">@novavoid.studio</tspan></text>
+<text class="r" style="animation-delay:2.46s" x="470" y="400" font-size="13" xml:space="preserve"><tspan fill="#a259ff">. LinkedIn</tspan><tspan fill="#6b6580"> .................. </tspan><tspan fill="#39ffa0">in/guimenv</tspan></text>
+<text x="470" y="517" font-size="13" fill="#39ffa0">$ <tspan fill="#d8d2ea">boot novavoid --ok</tspan><tspan class="cur" fill="#39ffa0"> _</tspan></text>
+</svg>

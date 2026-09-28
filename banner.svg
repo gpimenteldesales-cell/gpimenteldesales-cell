@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" font-family="'Courier New',Courier,monospace">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#a259ff"/><stop offset="1" stop-color="#39ffa0"/></linearGradient>
+<radialGradient id="a" cx=".15" cy=".2" r=".6"><stop offset="0" stop-color="#a259ff" stop-opacity=".35"/><stop offset="1" stop-color="#a259ff" stop-opacity="0"/></radialGradient>
+<radialGradient id="c" cx=".9" cy=".9" r=".6"><stop offset="0" stop-color="#39ffa0" stop-opacity=".25"/><stop offset="1" stop-color="#39ffa0" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#a259ff" stroke-opacity=".12"/></pattern>
+<clipPath id="tp"><rect x="70" y="176" width="0" height="26"><animate attributeName="width" from="0" to="760" dur="3s" begin="0.5s" fill="freeze"/></rect></clipPath>
+<style>
+.gl1{animation:g1 5s infinite steps(1)} .gl2{animation:g2 5s infinite steps(1)}
+@keyframes g1{0%,92%,100%{transform:translate(0,0)}93%{transform:translate(-5px,1px)}95%{transform:translate(4px,-1px)}97%{transform:translate(-2px,0)}}
+@keyframes g2{0%,92%,100%{transform:translate(0,0)}93%{transform:translate(5px,-1px)}95%{transform:translate(-4px,1px)}97%{transform:translate(2px,0)}}
+.scan{animation:sc 6s linear infinite} @keyframes sc{from{transform:translateY(-20px)}to{transform:translateY(280px)}}
+.cur{animation:bl 1s steps(1) infinite} @keyframes bl{50%{opacity:0}}
+@media (prefers-reduced-motion:reduce){.gl1,.gl2,.scan,.cur{animation:none}}
+</style></defs>
+<rect width="1000" height="260" rx="10" fill="#07060d"/>
+<rect width="1000" height="260" rx="10" fill="url(#grid)"/>
+<rect width="1000" height="260" rx="10" fill="url(#a)"/><rect width="1000" height="260" rx="10" fill="url(#c)"/>
+<rect width="1000" height="260" rx="10" fill="none" stroke="#a259ff" stroke-opacity=".5"/>
+<text x="24" y="30" font-size="12" fill="#6b6580">NOVAVOID BIOS (TM)   COPYRIGHT (C) 2026   VER 1.0</text>
+<text x="976" y="30" font-size="12" text-anchor="end" fill="#39ffa0">BOOT: OK</text>
+<line x1="24" y1="42" x2="976" y2="42" stroke="#a259ff" stroke-opacity=".5"/>
+<g font-size="76" font-weight="bold" letter-spacing="6">
+<text class="gl1" x="70" y="140" fill="#a259ff" opacity=".8">NOVAVOID</text>
+<text class="gl2" x="70" y="140" fill="#39ffa0" opacity=".8" transform="translate(3,0)">NOVAVOID</text>
+<text x="70" y="140" fill="url(#g)">NOVAVOID</text>
+</g>
+<text x="72" y="166" font-size="16" letter-spacing="14" fill="#6b6580">S T U D I O</text>
+<g clip-path="url(#tp)"><text x="70" y="196" font-size="18" fill="#d8d2ea">&gt; games. software. social critique. innovation</text></g>
+<text class="cur" x="70" y="230" font-size="16" fill="#39ffa0">_</text>
+<rect class="scan" x="0" y="0" width="1000" height="14" fill="#39ffa0" opacity=".05"/>
+</svg>
