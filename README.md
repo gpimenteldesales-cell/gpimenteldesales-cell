@@ -24,7 +24,7 @@ I am the founder of **NovaVoid Studio**, where I build games and software with o
 | :-- | :-- | :-- |
 | **Chroma Blitz** | Interactive color game: collide with the target color. In development. | Unity, C# |
 | [**ProspectArq**](https://github.com/gpimenteldesales-cell/ProspectArq) | Desktop app to manage clients and follow projects in architecture offices. | C#, .NET |
-| **PDV Santa** | Order management system for Santa Acaiteria. | Python |
+| **Controle Financeiro** | https://github.com/gpimenteldesales-cell/ControleFinanceiro | Order management system for finances. | Python |
 | [**WakaWakaJam**](https://github.com/gpimenteldesales-cell/WakaWakaJam-GameJam) | Game Jam 2026 entry. | Unity |
 | [**MiniGame3D**](https://github.com/gpimenteldesales-cell/MiniGame3D) | 3D game built in a single SENAI class: randomness, vectors, coroutines, level design, 3D animation, save/load. | Unity, C# |
 
