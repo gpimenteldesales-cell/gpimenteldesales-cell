@@ -22,7 +22,7 @@ I am the founder of **NovaVoid Studio**, where I build games and software with o
 
 | Project | What it is | Stack |
 | :-- | :-- | :-- |
-| **Chroma Blitz** | Interactive color game: collide with the target color. In development. | Unity, C# |
+| **Chroma Blitz** | (https://github.com/gpimenteldesales-cell/ChromaBlitz) | Interactive color game: collide with the target color. In development. | Unity, C# |
 | [**ProspectArq**](https://github.com/gpimenteldesales-cell/ProspectArq) | Desktop app to manage clients and follow projects in architecture offices. | C#, .NET |
 | **Controle Financeiro** | https://github.com/gpimenteldesales-cell/ControleFinanceiro | Order management system for finances. | Python |
 | [**WakaWakaJam**](https://github.com/gpimenteldesales-cell/WakaWakaJam-GameJam) | Game Jam 2026 entry. | Unity |
