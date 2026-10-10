@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="NovaVoid Studio" width="100%" />
+<img width="1000" height="260" alt="image" src="https://github.com/user-attachments/assets/5a4ed598-78ca-4265-b8f5-08d052e82db2" />
 </p>
 
 <p align="center">
