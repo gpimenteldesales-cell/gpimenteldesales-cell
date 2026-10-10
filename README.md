@@ -3,13 +3,13 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/guimenv/"><img src="https://img.shields.io/badge/LinkedIn-07060d?style=for-the-badge&logo=linkedin&logoColor=a259ff" /></a>
-  <a href="https://instagram.com/novavoid.studio"><img src="https://img.shields.io/badge/Instagram-07060d?style=for-the-badge&logo=instagram&logoColor=39ffa0" /></a>
-  <a href="mailto:empresa.novavoid.studio@gmail.com"><img src="https://img.shields.io/badge/Email-07060d?style=for-the-badge&logo=gmail&logoColor=a259ff" /></a>
+<img width="1000" height="531" alt="image" src="https://github.com/user-attachments/assets/5c9968c1-09eb-432c-a7d0-a29624732156" />
 </p>
 
 <p align="center">
-<img width="1000" height="531" alt="image" src="https://github.com/user-attachments/assets/5c9968c1-09eb-432c-a7d0-a29624732156" />
+  <a href="https://www.linkedin.com/in/guimenv/"><img src="https://img.shields.io/badge/LinkedIn-07060d?style=for-the-badge&logo=linkedin&logoColor=a259ff" /></a>
+  <a href="https://instagram.com/novavoid.studio"><img src="https://img.shields.io/badge/Instagram-07060d?style=for-the-badge&logo=instagram&logoColor=39ffa0" /></a>
+  <a href="mailto:empresa.novavoid.studio@gmail.com"><img src="https://img.shields.io/badge/Email-07060d?style=for-the-badge&logo=gmail&logoColor=a259ff" /></a>
 </p>
 
 ## About me
