@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/terminal.svg" alt="guilherme@novavoid" width="100%" />
+<img width="1000" height="531" alt="image" src="https://github.com/user-attachments/assets/5c9968c1-09eb-432c-a7d0-a29624732156" />
 </p>
 
 ## About me
